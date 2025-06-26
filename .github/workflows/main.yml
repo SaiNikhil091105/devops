@@ -28,8 +28,8 @@ jobs:
 
     - name: ▶ Run Python Code (main.py)
       run: |
-        echo "Output of main.py:"
-        python main.py
+        echo "Output of index.py:"
+        python index.py
 
     - name: 🧪 Run tests (if any)
       run: |
